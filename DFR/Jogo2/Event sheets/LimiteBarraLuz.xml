@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>LimiteBarraLuz</name>
+    <events>
+        <event-block sid="301367277680931">
+            <conditions>
+                <condition id="-14" name="Compare variable" sid="368948892484253" type="System">
+                    <param id="0" name="Variable">Luz</param>
+                    <param id="1" name="Comparison">5</param>
+                    <param id="2" name="Value">Luz_MAX</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-9" name="Set value" sid="480895898930686" type="System">
+                    <param id="0" name="Variable">Luz</param>
+                    <param id="1" name="Value">Luz_MAX</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="216462621366294">
+            <conditions>
+                <condition id="-14" name="Compare variable" sid="315298860956641" type="System">
+                    <param id="0" name="Variable">Luz</param>
+                    <param id="1" name="Comparison">3</param>
+                    <param id="2" name="Value">0</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="0" name="Call function" sid="887703331486633" type="Function">
+                    <param id="0" name="Name">&quot;Game Over&quot;</param>
+                    <param id="1" name="Parameter {n}"></param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

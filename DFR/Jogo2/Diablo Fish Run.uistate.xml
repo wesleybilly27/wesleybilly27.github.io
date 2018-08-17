@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="1">Game</layout>
+        <layout order="2">Menu</layout>
+        <event-sheet active="1" order="0">eGame</event-sheet>
+        <event-sheet order="3">eMenu</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="0" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="1" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/Personagem/" />
+        <folder expanded="1" path="animation-folder/Chao/" />
+        <folder expanded="1" path="animation-folder/oSensor/" />
+        <folder expanded="1" path="animation-folder/Coletavel/" />
+        <folder expanded="1" path="animation-folder/oObstaculos/" />
+        <folder expanded="1" path="animation-folder/Boss/" />
+        <folder expanded="1" path="animation-folder/Light/" />
+        <folder expanded="1" path="animation-folder/BarLuzMax/" />
+        <folder expanded="1" path="animation-folder/BarLuz/" />
+        <folder expanded="1" path="animation-folder/Vida/" />
+        <folder expanded="1" path="animation-folder/AnimaçaoLuz/" />
+        <folder expanded="1" path="animation-folder/AnimaçaoVida/" />
+        <folder expanded="1" path="animation-folder/oColetavelTotal/" />
+        <folder expanded="1" path="animation-folder/oSensorT/" />
+        <folder expanded="1" path="animation-folder/SombraTubarao/" />
+        <folder expanded="1" path="animation-folder/bPause/" />
+        <folder expanded="1" path="animation-folder/iPause/" />
+        <folder expanded="1" path="animation-folder/iHUD/" />
+        <folder expanded="1" path="animation-folder/iGO/" />
+        <folder expanded="1" path="animation-folder/bMenu/" />
+        <folder expanded="1" path="animation-folder/bPlay/" />
+        <folder expanded="1" path="animation-folder/bRepetir/" />
+        <folder expanded="1" path="animation-folder/iPerson/" />
+        <folder expanded="1" path="animation-folder/ImENU/" />
+        <folder expanded="1" path="animation-folder/iMenuFundo/" />
+        <folder expanded="1" path="animation-folder/iChao/" />
+        <folder expanded="1" path="animation-folder/iLampada/" />
+        <folder expanded="1" path="animation-folder/iVida/" />
+        <folder expanded="1" path="animation-folder/iHuda/" />
+        <folder expanded="1" path="animation-folder/iPausa/" />
+        <folder expanded="1" path="animation-folder/iGameOver/" />
+        <folder expanded="1" path="animation-folder/iGOv/" />
+        <folder expanded="1" path="animation-folder/iPlayText/" />
+        <folder expanded="1" path="animation-folder/bSom/" />
+        <folder expanded="1" path="animation-folder/bCredits/" />
+        <folder expanded="1" path="animation-folder/iTextCredits/" />
+        <folder expanded="1" path="animation-folder/iTextSom/" />
+        <folder expanded="1" path="animation-folder/iTextpause/" />
+    </folders-expanded>
+</c2uistate>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>eMenu</name>
+    <events>
+        <variable constant="0" name="VISualisarMouse" sid="890997329497982" static="0" type="number">0</variable>
+        <event-block sid="502251017610353">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="996747406955044" type="System" />
+            </conditions>
+            <actions>
+                <action id="-9" name="Set value" sid="596561932089788" type="System">
+                    <param id="0" name="Variable">VISualisarMouse</param>
+                    <param id="1" name="Value">0</param>
+                </action>
+                <action id="-15" name="Set visible" sid="347819968311616" type="iPlayText">
+                    <param id="0" name="Visibility">1</param>
+                </action>
+                <action id="-15" name="Set visible" sid="657360117266830" type="iTextSom">
+                    <param id="0" name="Visibility">1</param>
+                </action>
+                <action id="-15" name="Set visible" sid="913234986799691" type="iTextCredits">
+                    <param id="0" name="Visibility">1</param>
+                </action>
+                <action id="-16" name="Wait" sid="442746901031196" type="System">
+                    <param id="0" name="Seconds">3</param>
+                </action>
+                <action id="-15" name="Set visible" sid="943557683340435" type="iPlayText">
+                    <param id="0" name="Visibility">0</param>
+                </action>
+                <action id="-15" name="Set visible" sid="147686208137546" type="iTextSom">
+                    <param id="0" name="Visibility">0</param>
+                </action>
+                <action id="-15" name="Set visible" sid="399510578505454" type="iTextCredits">
+                    <param id="0" name="Visibility">0</param>
+                </action>
+                <action id="-9" name="Set value" sid="474215172820243" type="System">
+                    <param id="0" name="Variable">VISualisarMouse</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block any="1" sid="880559063205016">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="811685719003474" type="Keyboard">
+                    <param id="0" name="Key">13 (Return)</param>
+                </condition>
+                <condition id="3" name="On touched object" sid="707505533530157" type="Touch">
+                    <param id="0" name="Object">bPlay</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="769843443527562" type="System">
+                    <param id="0" name="Layout">Game</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block any="1" sid="967114208782101">
+            <conditions>
+                <condition id="3" name="On touched object" sid="931421448922873" type="Touch">
+                    <param id="0" name="Object">bSom</param>
+                </condition>
+                <condition id="0" name="On key pressed" sid="851862932934825" type="Keyboard">
+                    <param id="0" name="Key">16 (Shift)</param>
+                </condition>
+            </conditions>
+            <actions />
+            <sub-events>
+                <event-block sid="542908038941084">
+                    <conditions>
+                        <condition id="2" name="Is playing" sid="693057363943687" type="bSom">
+                            <param id="0" name="Animation">&quot;On&quot;</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="499235558488249" type="bSom">
+                            <param id="0" name="Animation">&quot;Off&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+                <event-block sid="224490871318840">
+                    <conditions>
+                        <condition id="-22" name="Else" sid="654085666186802" type="System" />
+                    </conditions>
+                    <actions>
+                        <action id="4" name="Set animation" sid="372283126073982" type="bSom">
+                            <param id="0" name="Animation">&quot;On&quot;</param>
+                            <param id="1" name="From">1</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-block>
+        <event-group description="" sid="229847274919452" title="VisualizarTextos">
+            <sub-events>
+                <event-block sid="311032785992811">
+                    <conditions>
+                        <condition id="-14" name="Compare variable" sid="460446164243752" type="System">
+                            <param id="0" name="Variable">VISualisarMouse</param>
+                            <param id="1" name="Comparison">0</param>
+                            <param id="2" name="Value">1</param>
+                        </condition>
+                    </conditions>
+                    <actions />
+                    <sub-events>
+                        <event-block sid="687595280390193">
+                            <conditions>
+                                <condition id="7" name="Cursor is over object" sid="116553147739527" type="Mouse">
+                                    <param id="0" name="Object">bPlay</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="217770500675915" type="iPlayText">
+                                    <param id="0" name="Visibility">1</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="144708227360722">
+                            <conditions>
+                                <condition id="-22" name="Else" sid="755985813522022" type="System" />
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="169339149311953" type="iPlayText">
+                                    <param id="0" name="Visibility">0</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="707302726176908">
+                            <conditions>
+                                <condition id="7" name="Cursor is over object" sid="900465566223956" type="Mouse">
+                                    <param id="0" name="Object">bCredits</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="452134896350866" type="iTextCredits">
+                                    <param id="0" name="Visibility">1</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="901624276163204">
+                            <conditions>
+                                <condition id="-22" name="Else" sid="276309820820084" type="System" />
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="324161420551332" type="iTextCredits">
+                                    <param id="0" name="Visibility">0</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="305392801502178">
+                            <conditions>
+                                <condition id="7" name="Cursor is over object" sid="890493547547331" type="Mouse">
+                                    <param id="0" name="Object">bSom</param>
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="674080044870951" type="iTextSom">
+                                    <param id="0" name="Visibility">1</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                        <event-block sid="800484191287880">
+                            <conditions>
+                                <condition id="-22" name="Else" sid="661081051518600" type="System" />
+                            </conditions>
+                            <actions>
+                                <action id="-15" name="Set visible" sid="332720061578955" type="iTextSom">
+                                    <param id="0" name="Visibility">0</param>
+                                </action>
+                            </actions>
+                        </event-block>
+                    </sub-events>
+                </event-block>
+            </sub-events>
+        </event-group>
+    </events>
+</c2eventsheet>
