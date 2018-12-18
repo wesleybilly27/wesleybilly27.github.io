@@ -1,4 +1,4 @@
-# wesleybilly27.github.io
+# Wesley Billy
 Meu portifólio
 
 ## Welcome to GitHub Pages
@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- numero 1
+- numero 2
 
 1. Numbered
 2. List
