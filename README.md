@@ -7,9 +7,15 @@ Meu portifólio no mundo dos Jogos Digitais
 ### Sobre mim
 
 Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos jogos digitais
-![gatinho](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
-```markdown
-Syntax highlighted code block
+
+### Artes
+1. Adicionar um link (URL)
+
+[Clique aqui](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
+
+![Clique aqui](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
+
+
 
 # Header 1
 ## Header 2
