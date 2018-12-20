@@ -26,11 +26,10 @@ Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos j
 
 [![Imagem Eu](Foto.png)](http://Twiter.com)
 
+5. Avançado: Adicionar um Link que seja Imagem e que abra em uma nova janela
 
+<a href="https://www.facebook.com/wesley.billy.1"> ![Imagem Eu](Foto.png) </a>
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -40,17 +39,8 @@ Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos j
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Negrito** and _Italic_
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wesleybilly27/wesleybilly27.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 # Redes socias e Contatos
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
