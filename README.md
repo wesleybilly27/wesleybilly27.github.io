@@ -22,6 +22,12 @@ Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos j
 ![Imagem Meus](14102237_673937692765941_6486121430130340075_n.jpg)
 ![Imagem Eu](Foto.png)
 
+4. Adicionar um Link que seja Imagem (URL + IMAGEM)
+
+[![Imagem Eu](Foto.png)](http://Twiter.com)
+
+
+
 # Header 1
 ## Header 2
 ### Header 3
