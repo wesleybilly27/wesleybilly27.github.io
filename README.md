@@ -13,9 +13,14 @@ Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos j
 
 [Clique aqui](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
 
+2. Adicionar uma Imagem da Internet (URL)
+
 ![Clique aqui](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
 
+3. Adicionar uma Imagem do Computador (ARQUIVO)
 
+![Imagem Meus](14102237_673937692765941_6486121430130340075_n.jpg)
+![Imagem Eu](Foto.png)
 
 # Header 1
 ## Header 2
