@@ -28,7 +28,7 @@ Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos j
 
 5. Avançado: Adicionar um Link que seja Imagem e que abra em uma nova janela
 
-<a href="https://www.facebook.com/wesley.billy.1"> ![Imagem Eu](Foto.png) </a>
+<a href="https://www.facebook.com/wesley.billy.1" target="_blank"> ![Imagem Eu](Foto.png) </a>
 
 
 - Bulleted
