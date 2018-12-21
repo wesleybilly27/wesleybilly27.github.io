@@ -11,38 +11,9 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
 ![Eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/44399651_1252453331581038_1475345910698344448_n.jpg?_nc_cat=106&_nc_ht=scontent.frec10-1.fna&oh=a0a48ede6436ec53b259071773a3babe&oe=5CD6C521)
 
 
-### Artes
-1. Adicionar um link (URL)
+### Jogos
+1. Againt
 
-[Clique aqui](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
-
-2. Adicionar uma Imagem da Internet (URL)
-
-![Clique aqui](https://www.baixarvideosgratis.com.br/imagens/entretenimento/animais/gatinho-fofinho-pedindo-petisco-tem-como-nao-amar-estes-seres.jpg)
-
-3. Adicionar uma Imagem do Computador (ARQUIVO)
-
-![Imagem Meus](14102237_673937692765941_6486121430130340075_n.jpg)
-![Imagem Eu](Foto.png)
-
-4. Adicionar um Link que seja Imagem (URL + IMAGEM)
-
-[![Imagem Eu](Foto.png)](http://Twiter.com)
-
-5. Avançado: Adicionar um Link que seja Imagem e que abra em uma nova janela
-
-<a href="https://www.facebook.com/wesley.billy.1"   > ![Imagem Eu](Foto.png) </a>
-
-
-- Bulleted
-- List
-- numero 1
-- numero 2
-
-1. Numbered
-2. List
-
-**Negrito** and _Italic_
 
 
 # Redes socias e Contatos
