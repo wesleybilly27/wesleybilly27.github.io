@@ -14,9 +14,8 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
 ### Jogos
 **1. Against The Flow** <a href="https://wesleybilly27.github.io/ATF/" target = "_blank" > Para Jogar Clique aqui </a>    
     Ajude Richard a salvar sua amada filha Aurora desviando de obstáculos e coletando os lixos na praia.  
-    ![ATF](ATF.png)
-    ![ATF2](ATF2.png)  
-
+    ![ATF](ATF.png) ![ATF2](ATF2.png) 
+     
 **2. The Future Day** <a href="https://wesleybilly27.github.io/TDF/" target = "_blank" > Para Jogar Clique aqui </a>  
     A ideia do companheiro é muito presente no exercito, principalmente se eles são irmãos e ainda mais gêmeos. Então sinta-se à vontade para ajudar os irmãos a protegerem a Terra da ameaça alienígena.  
     ![TDF](TDF.png)
