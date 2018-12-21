@@ -45,3 +45,5 @@ Meu nome é Wesley Billy, atualmente tenho 18 anos, sou um amante do mundo dos j
 # Redes socias e Contatos
 <a href="https://www.facebook.com/wesley.billy.1"  target = "_blank" > ![Imagem1](Face.png) </a>
 <a href="https://br.pinterest.com/wesleybilly27/"  target = "_blank" > ![Imagem2](Pint.png) </a>
+<a href="https://www.instagram.com/wesleybilly27/?hl=pt-br"  target = "_blank" > ![Imagem3](Insta.png) </a>
+<a href="https://wesleybilly27.wixsite.com/meusiteparadesenhos"  target = "_blank" > ![Imagem4](Eu.png) </a>
