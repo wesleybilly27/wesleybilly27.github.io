@@ -12,27 +12,27 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
 
 
 ### Jogos
-**1. Against The Flow** <a href="https://wesleybilly27.github.io/ATF/" target = "_blank" > ![Para Jogar Clique aqui] </a>  
+**1. Against The Flow** <a href="https://wesleybilly27.github.io/ATF/" target = "_blank" > Para Jogar Clique aqui </a>    
     Ajude Richard a salvar sua amada filha Aurora desviando de obstáculos e coletando os lixos na praia.  
     ![ATF](ATF.png)
     ![ATF2](ATF2.png)  
 
-**2. The Future Day** <a href="https://wesleybilly27.github.io/TDF/" target = "_blank" > ![Para Jogar Clique aqui] </a>
+**2. The Future Day** <a href="https://wesleybilly27.github.io/TDF/" target = "_blank" > Para Jogar Clique aqui </a>  
     A ideia do companheiro é muito presente no exercito, principalmente se eles são irmãos e ainda mais gêmeos. Então sinta-se à vontade para ajudar os irmãos a protegerem a Terra da ameaça alienígena.  
     ![TDF](TDF.png)
     ![TDF2](TDF2.png)
     
-**3. Thermal Balance** <a href="https://wesleybilly27.github.io/TB/" target = "_blank" > ![Para Jogar Clique aqui] </a>
+**3. Thermal Balance** <a href="https://wesleybilly27.github.io/TB/" target = "_blank" > Para Jogar Clique aqui </a>  
     Ajude o Planeta a entrar em equilíbrio térmico, nem tão quente, nem tão frio.
     ![TB](TB.png)
     ![TB2](TB2.png)
     
-**4. Diablo Fish Run** <a href="https://wesleybilly27.github.io/DFR/" target = "_blank" > ![Para Jogar Clique aqui] </a>
+**4. Diablo Fish Run** <a href="https://wesleybilly27.github.io/DFR/" target = "_blank" > Para Jogar Clique aqui </a>  
     Qual o seu maior medo? O do desse peixe não é a escuridão.
     ![DFR](DFR.png)  
     ![DFR2](DFR2.png)  
     
-**5. Bublle VI** <a href="https://wesleybilly27.github.io/JogoDaVI/" target = "_blank" > ![Para Jogar Clique aqui] </a>
+**5. Bublle VI** <a href="https://wesleybilly27.github.io/JogoDaVI/" target = "_blank" > Para Jogar Clique aqui </a>  
     Está estressado? Estoures essas bolhas e relaxe.  
     ![BV](BV.png)
     ![BV2](BV2.png)
