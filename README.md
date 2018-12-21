@@ -51,5 +51,6 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
 <a href="https://www.instagram.com/wesleybilly27/?hl=pt-br"  target = "_blank" > ![Imagem3](Insta.png) </a>
 <a href="https://wesleybilly27.wixsite.com/meusiteparadesenhos"  target = "_blank" > ![Imagem4](Eu.png) </a>
 
-![Watsapp](wpp2.png) Whatsapp e número: (84) 9 9439-7500
+![Watsapp](wpp2.png) Whatsapp e número: (84) 9 9439-7500  
+
 ![Email](gmail2.png) Email: wesleybilly27@gmail.com
