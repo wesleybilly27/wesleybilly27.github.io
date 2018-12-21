@@ -26,7 +26,15 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     Ajude o Planeta a entrar em equilíbrio térmico, nem tão quente, nem tão frio.
     ![TB](TB.png)
     ![TB2](TB2.png)
-
+    
+**4. Diablo Fish Run**
+    Qual o seu maior medo? O do desse peixe não é a escuridão.
+    ![DFR](DFR.png)  
+    ![DFR2](DFR2.png)  
+    
+**5. Bublle VI**
+    Está estressado? Estoures essas bolhas e relaxe.
+    
 
 
 # Redes socias e Contatos
