@@ -33,7 +33,9 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![DFR2](DFR2.png)  
     
 **5. Bublle VI**
-    Está estressado? Estoures essas bolhas e relaxe.
+    Está estressado? Estoures essas bolhas e relaxe.  
+    ![BV](BV.png)
+    ![BV2](BV2.png)
     
 
 
