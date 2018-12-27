@@ -1,6 +1,4 @@
-<audio controls>
-	<source src="Fundo.mp3" loop="true" autostart="true">
-</audio>
+<embed type="audio/mpeg" src="Fundo.mp3" volume="60" loop="true" autostart="true" />
 
 # Wesley Billy
 
