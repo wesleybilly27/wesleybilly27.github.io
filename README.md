@@ -35,6 +35,12 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     Está estressado? Estoures essas bolhas e relaxe.  
     ![BV](BV.png)
     ![BV2](BV2.png)
+    
+**6. Citogame** <a href="https://wesleybilly27.github.io/CG/" target = "_blank" > Para Jogar Clique aqui </a>  
+    A citologia não tá fácil? Pode até não parecer, mas ela pode ser bem divertida! Embarque com Guilherme nesse mundo.
+    ![CG](citoimag.png)
+    ![CG2](citoimag2.png)  
+    
 # Artes e Animações  
     Algumas artes dos jogos acima e de alguns outros trabalhos realizado no curso.  
 <img src="versãoIndle.gif"> <img src="versãoCaminhada.gif"> <img src="versãoAtaque.gif">
