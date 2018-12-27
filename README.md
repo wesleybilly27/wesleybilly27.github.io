@@ -1,5 +1,7 @@
 <embed height="60" type="audio/midi" width="144" src="Fundo.mp3" volume="100" loop="true" autostart="true" />
-
+<audio controls>
+	<source src="Fundo.mp3">
+</audio>
 # Wesley Billy
 
 Minha história no mundo dos Jogos Digitais!
