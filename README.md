@@ -1,6 +1,8 @@
+<embed height="60" type="audio/midi" width="144" src="Fundo.mp3" volume="100" loop="true" autostart="true" />
+
 # Wesley Billy
-<embed height="60" type="audio/midi" width="144" src="Fundo.mp3" volume="30" loop="true" autostart="true" />
-Meu história no mundo dos Jogos Digitais!
+
+Minha história no mundo dos Jogos Digitais!
 
 ## Bem-vindo ao meu portifólio
 
@@ -41,9 +43,12 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![CG](citoimag.png)
     ![CG2](citoimag2.png)  
     
-# Artes e Animações  
-    Algumas artes dos jogos acima e de alguns outros trabalhos realizado no curso.  
-<img src="versãoIndle.gif"> <img src="versãoCaminhada.gif"> <img src="versãoAtaque.gif">
+# Artes e Animações
+Algumas artes dos jogos acima e de alguns outros trabalhos realizado no curso.  
+    
+<img src="versãoIndle.gif"> 
+<img src="versãoCaminhada.gif"> 
+<img src="versãoAtaque.gif">
 
 # Redes socias e Contatos
 <a href="https://www.facebook.com/wesley.billy.1"  target = "_blank" > ![Imagem1](Face.png) </a>
