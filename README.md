@@ -40,7 +40,7 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![CG](citoimag.png)
     ![CG2](citoimag2.png)  
     
-# Artes e Animações
+# Animações
 Algumas artes dos jogos acima e de alguns outros trabalhos realizado no curso.  
     
 <img src="versãoIndle.gif"> 
