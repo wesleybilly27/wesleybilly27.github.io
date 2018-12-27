@@ -1,17 +1,14 @@
-<embed type="audio/mpeg" src="Fundo.mp3" height="20" width="144" volume="60" loop="true"  autostart="true" />
-
 # Wesley Billy
 
 Minha história no mundo dos Jogos Digitais!
 
 ## Bem-vindo ao meu portifólio
 
-### Quem sou?
+### Quem sou?  
+
+![Eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/44399651_1252453331581038_1475345910698344448_n.jpg?_nc_cat=106&_nc_ht=scontent.frec10-1.fna&oh=a0a48ede6436ec53b259071773a3babe&oe=5CD6C521)  
 
 Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o rodeia, desde das histórias até a mecânica neles usada. Também sou um iniciante no mundo das ilustrações, na qual tenho uma extrema admiração por cada um dos tipos de artes, e você pode ver todas que já fiz entrando no site ao final da página. Como consequência de gostar muito desse mundo das artes em geral, aprendi a tocar violão - umas das melhores coisas que já descidir fazer. Tenho como lema que fala o seguinte: NO stress.
-
-![Eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/44399651_1252453331581038_1475345910698344448_n.jpg?_nc_cat=106&_nc_ht=scontent.frec10-1.fna&oh=a0a48ede6436ec53b259071773a3babe&oe=5CD6C521)
-
 
 ### Jogos
 **1. Against The Flow** <a href="https://wesleybilly27.github.io/ATF/" target = "_blank" > Para Jogar Clique aqui </a>    
