@@ -36,7 +36,7 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![BV](BV.png)
     ![BV2](BV2.png)
     
-<img src="versãoIndle.gif"> img src="versãoCaminhada.gif"> img src="versãoAtaque.gif">
+<img src="versãoIndle.gif"> <img src="versãoCaminhada.gif"> <img src="versãoAtaque.gif">
 
 # Redes socias e Contatos
 <a href="https://www.facebook.com/wesley.billy.1"  target = "_blank" > ![Imagem1](Face.png) </a>
