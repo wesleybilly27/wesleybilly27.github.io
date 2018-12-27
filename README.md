@@ -1,4 +1,4 @@
-<audio controls>
+<audio>
 	<source src="Fundo.mp3" loop="True">
 </audio>
 
