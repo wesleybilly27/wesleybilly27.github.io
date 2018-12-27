@@ -1,4 +1,4 @@
-<embed type="audio/mpeg" src="Fundo.mp3" height="20" volume="60" volume="60" loop="false" autostart="false" />
+<embed type="audio/mpeg" src="Fundo.mp3" height="20" width="144" volume="60" loop="true"  autostart="true" />
 
 # Wesley Billy
 
