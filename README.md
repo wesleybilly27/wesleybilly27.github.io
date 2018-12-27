@@ -1,5 +1,5 @@
 <audio>
-	<source src="Fundo.mp3" loop="True">
+	<source src="Fundo.mp3" loop="true" autostart="true">
 </audio>
 
 # Wesley Billy
