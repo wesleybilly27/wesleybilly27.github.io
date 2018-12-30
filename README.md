@@ -8,7 +8,7 @@ Minha história no mundo dos Jogos Digitais!
 
 ![Eu](https://scontent.frec10-1.fna.fbcdn.net/v/t1.0-9/44399651_1252453331581038_1475345910698344448_n.jpg?_nc_cat=106&_nc_ht=scontent.frec10-1.fna&oh=a0a48ede6436ec53b259071773a3babe&oe=5CD6C521)  
 
-Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o rodeia, desde das histórias até a mecânica neles usada. Também sou um iniciante no mundo das ilustrações, na qual tenho uma extrema admiração por cada um dos tipos de artes, e você pode ver todas que já fiz entrando no site ao final da página. Como consequência de gostar muito desse mundo das artes em geral, aprendi a tocar violão - umas das melhores coisas que já descidir fazer. Tenho como lema o seguinte: NO stress, ou seja, sem estresse. Irei resolver tudo sem estresse.
+Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o rodeia, desde das histórias até a mecânica neles usada. Também sou um iniciante no mundo das ilustrações, na qual tenho uma extrema admiração por cada um dos tipos de artes, e você pode ver todas que já fiz entrando no site ao final da página. Como consequência de gostar muito desse mundo das artes em geral, aprendi a tocar violão - umas das melhores coisas que já decidir fazer. Tenho como lema: NO stress, ou seja, sem estresse. Irei resolver tudo sem estresse.
 
 ### Jogos
 **1. Against The Flow** <a href="https://wesleybilly27.github.io/ATF/" target = "_blank" > Para Jogar Clique aqui </a>    
@@ -31,7 +31,7 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![DFR2](DFR2.png)  
     
 **5. Bublle VI** <a href="https://wesleybilly27.github.io/JogoDaVI/" target = "_blank" > Para Jogar Clique aqui </a>  
-    Está estressado? Estoures essas bolhas e relaxe.  
+    Está estressado? Estoure essas bolhas e relaxe.  
     ![BV](BV.png)
     ![BV2](BV2.png)
     
@@ -53,6 +53,6 @@ Algumas animações feitas.
 <a href="https://www.instagram.com/wesleybilly27/?hl=pt-br"  target = "_blank" > ![Imagem3](Insta.png) </a>
 <a href="https://wesleybilly27.wixsite.com/meusiteparadesenhos"  target = "_blank" > ![Imagem4](Eu.png) </a>
 
-![Watsapp](wpp2.png) Whatsapp e número: (84) 9 9439-7500  
+![Watsapp](wpp2.png) Whatsapp: (84) 99439-7500  
 
 ![Email](gmail2.png) Email: wesleybilly27@gmail.com
