@@ -40,6 +40,12 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![CG](citoimag.png)
     ![CG2](citoimag2.png)  
     
+**7. SidwaysJump** <a href="https://wesleybilly27.github.io/SJ/" target = "_blank" > Para Jogar Clique aqui </a>  
+    Um atronalta no meio do espaço que não para de subir, qual será seu maior record?  
+    ![JS](JS.png)
+    ![JS2](JS2.png)
+    
+    
 # Animações
 Algumas animações feitas.  
     
