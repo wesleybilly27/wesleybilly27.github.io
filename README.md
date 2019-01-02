@@ -45,6 +45,11 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![SJ](SJ.png)
     ![SJ2](SJ2.png)
     
+**8.Monster Flappy Bird** <a href="https://wesleybilly27.github.io/MFB/" target = "_blank" > Para Jogar Clique aqui </a>  
+    Um clássico que todos conhecemos, porém de "cara" nova.   
+    ![MFB](MFB.png)
+    ![MFB2](MFB2.png)
+    
     
 # Animações
 Algumas animações feitas.  
