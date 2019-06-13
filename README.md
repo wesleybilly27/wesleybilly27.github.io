@@ -50,7 +50,7 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![MFB](MFB.png)
     ![MFB2](MFB2.png)
 **9.EDUFIN** 
-    Para fazer o download escolha uma das opções a seguir:
+    <p>Para fazer o download escolha uma das opções a seguir:<br>
     <p><a href="https://drive.google.com/open?id=1GiT8ME6cUZ2aDERr5g1XGHNiwiDyvbrZ" target = "_blank" > LINUX 32bits </a><br>
     <p><a href="https://drive.google.com/open?id=1iufaqliaLdykxdLt3omDcZPcw1TXTs-E" target = "_blank" > LINUX 64bits </a><br>
     <p><a href="https://drive.google.com/open?id=1jNGYQdRRbdzZdbAjpO3DUZBlND1xfzKK" target = "_blank" > OSX 64bits </a><br>
