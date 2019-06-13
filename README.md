@@ -49,13 +49,14 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     Um clássico que todos conhecemos, porém de "cara" nova.   
     ![MFB](MFB.png)
     ![MFB2](MFB2.png)
-**9.EDUFIN** 
-    <p>Para fazer o download escolha uma das opções a seguir:<br>
-    <p><a href="https://drive.google.com/open?id=1GiT8ME6cUZ2aDERr5g1XGHNiwiDyvbrZ" target = "_blank" > LINUX 32bits </a><br>
-    <p><a href="https://drive.google.com/open?id=1iufaqliaLdykxdLt3omDcZPcw1TXTs-E" target = "_blank" > LINUX 64bits </a><br>
-    <p><a href="https://drive.google.com/open?id=1jNGYQdRRbdzZdbAjpO3DUZBlND1xfzKK" target = "_blank" > OSX 64bits </a><br>
-    <p><a href="https://drive.google.com/open?id=1ooXVvezfuk5t14IAndYQV7J1rTSCrl1V" target = "_blank" > WINDOWS 32bits </a><br>
-    <p><a href="https://drive.google.com/open?id=1OVe1B2r365kKfyDZRHOoHeJkp5ZxE1Xy" target = "_blank" > WINDOWS 64bits </a><br>
+
+**9.EDUFIN**<br>
+    Para fazer o download escolha uma das opções a seguir:<br>
+    <a href="https://drive.google.com/open?id=1GiT8ME6cUZ2aDERr5g1XGHNiwiDyvbrZ" target = "_blank" > LINUX 32bits </a><br>
+    <a href="https://drive.google.com/open?id=1iufaqliaLdykxdLt3omDcZPcw1TXTs-E" target = "_blank" > LINUX 64bits </a><br>
+    <a href="https://drive.google.com/open?id=1jNGYQdRRbdzZdbAjpO3DUZBlND1xfzKK" target = "_blank" > OSX 64bits </a><br>
+    <a href="https://drive.google.com/open?id=1ooXVvezfuk5t14IAndYQV7J1rTSCrl1V" target = "_blank" > WINDOWS 32bits </a><br>
+    <a href="https://drive.google.com/open?id=1OVe1B2r365kKfyDZRHOoHeJkp5ZxE1Xy" target = "_blank" > WINDOWS 64bits </a><br>
     
     
 # Animações
