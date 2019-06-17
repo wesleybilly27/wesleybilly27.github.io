@@ -50,7 +50,9 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![MFB](MFB.png)
     ![MFB2](MFB2.png)
 
-**9.EDUFIN**<br>
+**9.EDUFIN**<br><a href="https://wesleybilly27.github.io/MFB/" target = "_blank" > Para Jogar Clique aqui </a>  
+    Um clássico que todos conhecemos, porém de "cara" nova.   
+    ![ef](ef.png)
     Para fazer o download escolha uma das opções a seguir:<br>
     <a href="https://drive.google.com/open?id=1GiT8ME6cUZ2aDERr5g1XGHNiwiDyvbrZ" target = "_blank" > LINUX 32bits </a><br>
     <a href="https://drive.google.com/open?id=1iufaqliaLdykxdLt3omDcZPcw1TXTs-E" target = "_blank" > LINUX 64bits </a><br>
