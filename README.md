@@ -50,7 +50,7 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![MFB](MFB.png)
     ![MFB2](MFB2.png)
 
-**9.EDUFIN**<br><a href="https://wesleybilly27.github.io/MFB/" target = "_blank" > Para Jogar Clique aqui </a>  
+**9.EDUFIN**<br><a href="wesleybilly27.github.io/EDUFIN/" target = "_blank" > Para Jogar Clique aqui </a>  
     Aprenda a economizar se divertindo! 
     ![ef](ef.png)
     Para fazer o download escolha uma das opções a seguir:<br>
