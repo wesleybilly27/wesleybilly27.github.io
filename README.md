@@ -51,14 +51,14 @@ Meu nome é Wesley Billy, sou um amante do mundo dos jogos digitais e tudo que o
     ![MFB2](MFB2.png)
 
 **9.EDUFIN**<br><a href="https://wesleybilly27.github.io/MFB/" target = "_blank" > Para Jogar Clique aqui </a>  
-    Um clássico que todos conhecemos, porém de "cara" nova.   
+    Aprenda a economizar se divertindo! 
     ![ef](ef.png)
     Para fazer o download escolha uma das opções a seguir:<br>
-    <a href="https://drive.google.com/open?id=1GiT8ME6cUZ2aDERr5g1XGHNiwiDyvbrZ" target = "_blank" > LINUX 32bits </a><br>
-    <a href="https://drive.google.com/open?id=1iufaqliaLdykxdLt3omDcZPcw1TXTs-E" target = "_blank" > LINUX 64bits </a><br>
-    <a href="https://drive.google.com/open?id=1jNGYQdRRbdzZdbAjpO3DUZBlND1xfzKK" target = "_blank" > OSX 64bits </a><br>
-    <a href="https://drive.google.com/open?id=1ooXVvezfuk5t14IAndYQV7J1rTSCrl1V" target = "_blank" > WINDOWS 32bits </a><br>
-    <a href="https://drive.google.com/open?id=1OVe1B2r365kKfyDZRHOoHeJkp5ZxE1Xy" target = "_blank" > WINDOWS 64bits </a><br>
+    <a href="https://www.dropbox.com/s/510evaq8cv2ye5w/linux32.zip?dl=0" target = "_blank" > LINUX 32bits </a><br>
+    <a href="https://www.dropbox.com/s/jm8bbxczrjfrd15/linux64.zip?dl=0" target = "_blank" > LINUX 64bits </a><br>
+    <a href="https://www.dropbox.com/s/4gzsdy2o1eb7ceu/osx64.zip?dl=0" target = "_blank" > OSX 64bits </a><br>
+    <a href="https://www.dropbox.com/s/wxoxgieeat0i27e/win32.zip?dl=0" target = "_blank" > WINDOWS 32bits </a><br>
+    <a href="https://www.dropbox.com/s/3rzk8x3n3340rg6/win64.zip?dl=0" target = "_blank" > WINDOWS 64bits </a><br>
     
     
 # Animações
