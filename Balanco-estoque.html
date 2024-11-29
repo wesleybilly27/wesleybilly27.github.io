@@ -33,6 +33,11 @@
             padding: 10px;
             text-align: center;
         }
+        .export-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -47,10 +52,30 @@
 
         <h2>Lista de Produtos</h2>
         <div id="resultado"></div>
+        <div class="export-buttons">
+            <button onclick="exportarTxt()">Exportar para TXT</button>
+            <button onclick="exportarXls()">Exportar para XLS</button>
+        </div>
     </div>
 
     <script>
         const produtos = [];
+        let codigosValidos = [];
+
+        // Função para carregar os códigos válidos do banco de dados
+        async function carregarCodigos() {
+            try {
+                const response = await fetch('bancodados.txt');
+                const texto = await response.text();
+                const linhas = texto.split('\n').slice(1); // Ignorar o cabeçalho
+                codigosValidos = linhas.map(linha => linha.split('\t')[0].trim());
+            } catch (error) {
+                console.error('Erro ao carregar o banco de dados:', error);
+            }
+        }
+
+        // Chamar a função de carregamento ao iniciar
+        carregarCodigos();
 
         function adicionarProduto() {
             const codigo = document.getElementById("codigo").value.trim();
@@ -58,6 +83,11 @@
 
             if (!codigo || isNaN(estoque) || estoque < 0) {
                 alert("Por favor, insira um código válido e uma quantidade maior ou igual a zero.");
+                return;
+            }
+
+            if (!codigosValidos.includes(codigo)) {
+                alert("O código digitado não é válido. Por favor, insira um código existente no banco de dados.");
                 return;
             }
 
@@ -95,6 +125,59 @@
 
             tabela += `</tbody></table>`;
             document.getElementById("resultado").innerHTML = tabela;
+        }
+
+        function exportarTxt() {
+            if (produtos.length === 0) {
+                alert("Nenhum produto cadastrado.");
+                return;
+            }
+
+            let conteudo = "Código\tEstoque\n";
+            produtos.forEach(produto => {
+                conteudo += `${produto.codigo}\t${produto.estoque}\n`;
+            });
+
+            const blob = new Blob([conteudo], { type: "text/plain" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "produtos.txt";
+            link.click();
+        }
+
+        function exportarXls() {
+            if (produtos.length === 0) {
+                alert("Nenhum produto cadastrado.");
+                return;
+            }
+
+            let conteudo = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Código</th>
+                            <th>Estoque</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            produtos.forEach(produto => {
+                conteudo += `
+                    <tr>
+                        <td>${produto.codigo}</td>
+                        <td>${produto.estoque}</td>
+                    </tr>
+                `;
+            });
+
+            conteudo += `</tbody></table>`;
+
+            const blob = new Blob([conteudo], { type: "application/vnd.ms-excel" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "produtos.xls";
+            link.click();
         }
     </script>
 </body>
