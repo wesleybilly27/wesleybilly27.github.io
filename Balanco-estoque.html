@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Produtos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cadastro de Produtos</h1>
+        <label for="codigo">Código do Produto:</label>
+        <input type="text" id="codigo" placeholder="Digite o código do produto">
+        <label for="estoque">Estoque:</label>
+        <input type="number" id="estoque" placeholder="Digite a quantidade em estoque">
+        <button onclick="adicionarProduto()">Adicionar Produto</button>
+        <button onclick="gerarLista()">Gerar Lista</button>
+
+        <h2>Lista de Produtos</h2>
+        <div id="resultado"></div>
+    </div>
+
+    <script>
+        const produtos = [];
+
+        function adicionarProduto() {
+            const codigo = document.getElementById("codigo").value.trim();
+            const estoque = parseInt(document.getElementById("estoque").value);
+
+            if (!codigo || isNaN(estoque) || estoque < 0) {
+                alert("Por favor, insira um código válido e uma quantidade maior ou igual a zero.");
+                return;
+            }
+
+            produtos.push({ codigo, estoque });
+            document.getElementById("codigo").value = "";
+            document.getElementById("estoque").value = "";
+            alert("Produto adicionado com sucesso!");
+        }
+
+        function gerarLista() {
+            if (produtos.length === 0) {
+                alert("Nenhum produto cadastrado.");
+                return;
+            }
+
+            let tabela = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Código</th>
+                            <th>Estoque</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            produtos.forEach(produto => {
+                tabela += `
+                    <tr>
+                        <td>${produto.codigo}</td>
+                        <td>${produto.estoque}</td>
+                    </tr>
+                `;
+            });
+
+            tabela += `</tbody></table>`;
+            document.getElementById("resultado").innerHTML = tabela;
+        }
+    </script>
+</body>
+</html>
